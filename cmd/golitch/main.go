@@ -1,11 +1,12 @@
 package main
 
 import (
-	"./golitch"
 	"flag"
 	"fmt"
 	"io/ioutil"
 	"os"
+
+	"github.com/drillbits/golitch"
 )
 
 func main() {
